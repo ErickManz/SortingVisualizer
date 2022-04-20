@@ -1,0 +1,18 @@
+.array-container {
+  width: auto;
+  bottom: 0px;
+  position: absolute;
+  left: 20vh;
+}
+.array-bar {
+  width: 2px;
+  display: inline-block;
+  background-color: #23b5d3;
+  margin: 0 1px;
+}
+
+.button-nav {
+  padding: 40px;
+  display: block;
+  background-color: #172a3a;
+}
