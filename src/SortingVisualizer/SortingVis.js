@@ -23,9 +23,9 @@ function SortingVis(props){
 
     const arr = [];
     // eslint-disable-next-line no-restricted-globals
-    const size = screen.width/5
+    const size = window.innerWidth/5
     // eslint-disable-next-line no-restricted-globals
-    const height = screen.height/1.5
+    const height = window.innerHeight/1.3
     for(let i = 0; i < size; i++){
       arr.push(randomIntFromInterval(5,height));
     }
