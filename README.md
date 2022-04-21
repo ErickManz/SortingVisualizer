@@ -1,5 +1,7 @@
 ## Available Scripts
 
+check it out at https://erickmanzsortingvisualizer.netlify.app
+
 In the project directory, you can run:
 
 ### `npm start`
